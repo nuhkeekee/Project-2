@@ -70,3 +70,60 @@ nav a {
 	padding: 0.5em;
 	margin: 0;
 }
+
+.p1 {
+	padding: 1em;
+	padding-bottom: 1em;
+	font-style: normal;
+}
+
+.banner {
+	width: 100%;
+}
+
+.div-banner {
+	position: relative;
+	clear: both;
+}
+
+h2 {
+	position: absolute;
+	bottom: 0.3em;
+	text-align: center;
+	font-size: 1.5em;
+	color: #fff;
+	text-shadow: #222 2px 2px 2px;
+	font-style: italic;
+	width: 100%;
+}
+
+.left {
+	float: left;
+	width: 50%;
+	padding-bottom: 1em;
+}
+
+.right {
+	float: right;
+	width: 50%;
+	padding-bottom: 1em;
+}
+
+h3 {
+	margin: 0;
+	padding: 1em 0 1em 0;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+p {
+	margin: 0;
+	padding-bottom: 2em;
+	font-style: italic;
+	font-size: 1em;
+}
+
+.dragon {
+	background-color: #E8DA7B;
+	text-align: center;
+}
