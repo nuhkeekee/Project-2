@@ -113,7 +113,7 @@ h3 {
 	margin: 0;
 	padding: 1em 0 1em 0;
 	font-size: 2em;
-	font-weight: bold;
+	font-weight: bolder;
 }
 
 p {
@@ -125,5 +125,20 @@ p {
 
 .dragon {
 	background-color: #E8DA7B;
+	text-align: center;
+}
+
+.goat {
+	background-color: #CC4747;
+	text-align: center;
+}
+
+.rooster {
+	background-color: #E8DA7B;;
+	text-align: center;
+}
+
+.ox {
+	background-color: #CC4747;
 	text-align: center;
 }
