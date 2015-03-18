@@ -142,3 +142,9 @@ p {
 	background-color: #CC4747;
 	text-align: center;
 }
+
+aside {
+	background-color: ##0D0D0D;
+	text-align: center;
+	padding-top: 2em;
+}
