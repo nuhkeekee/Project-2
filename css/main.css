@@ -4,8 +4,12 @@ html {
   browser-width: 600px;
 }
 
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
 .header {
-	background-color: #C40820;
+	background-color: #CC4747;
 	text-align: center;
 	color: #fff;
 }
@@ -19,4 +23,50 @@ h1 {
 	left: 0;
 	margin: 0;
 	top: 10px;
+}
+
+small {
+	font-size: 0.8rem;
+	display: block;
+}
+
+.medallion {
+	width: 80px;
+	margin: 1em;
+}
+
+.top-left {
+	float: left;
+}
+
+.top-right {
+	float: right;
+}
+
+nav {
+	background-color: #0D0D0D;
+}
+
+nav ol {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	width: 50%;
+	border: 1px solid #000;
+	background-color: #0D0D0D;
+	padding: 0;
+	margin: 0;
+	font-size: 1em;
+}
+
+nav a {
+	display: block;
+	text-decoration: none;
+	color: white;
+	background-color: #0D0D0D;
+	padding: 0.5em;
+	margin: 0;
 }
