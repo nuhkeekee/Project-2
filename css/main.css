@@ -1,0 +1,22 @@
+html {
+	font-family: 'Noto Sans', sans-serif;
+	box-sizing: border-box;
+  browser-width: 600px;
+}
+
+.header {
+	background-color: #C40820;
+	text-align: center;
+	color: #fff;
+}
+
+h1 {
+	text-shadow: #910A0A 2px 2px 2px;
+	width: 100%;
+	text-align: center;
+	font-size: 2.5em;
+	position: absolute;
+	left: 0;
+	margin: 0;
+	top: 10px;
+}
